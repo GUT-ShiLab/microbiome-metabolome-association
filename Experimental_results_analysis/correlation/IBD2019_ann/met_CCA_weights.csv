@@ -1,0 +1,382 @@
+"Metabolite","Metabolite_Weight"
+"4-hydroxystyrene",0
+"p-hydroxyphenylacetate",0
+"acesulfame",0
+"phenyllactate",0
+"sebacate",-0.149078934753045
+"undecanedionate",-0.171868312884008
+"acetytyrosine",0
+"myristic acid",0
+"dodecanedioic acid",-0.0743582054037496
+"2-hydroxymyristic acid",-0.078505534191882
+"palmitoleic acid",0
+"palmitic acid",0
+"tetradecanedioate",0
+"1,2,3,4-tetrahydro-b-carboline-1,3-dicarboxylic acid",-0.0127139454317165
+"2-hydroxyhexadecanoate",-0.0561766480774516
+"alpha-linolenic acid",0
+"linoleic acid",0
+"oleic acid",0
+"stearic acid",0
+"hexadecanedioic acid",0
+"eicosapentaenoic acid",0.061752527386931
+"arachidonic acid",0.079912324723005
+"eicosatrienoic acid",0.138875717780464
+"eicosenoate",0
+"12.13-diHOME",0
+"9.10-diHOME",0
+"docosahexaenoic acid",0.0611159723066625
+"carnosol",-0.0366306544136957
+"docosapentaenoic acid",0.131985330034612
+"adrenic acid",0.135833723533259
+"palmitoylethanolamide",0.0348520923869987
+"13-docosenoate",0
+"nervonic acid",0
+"lithocholic acid",-0.16438200029267
+"hyodeoxycholate/ursodeoxycholate*",0
+"chenodeoxycholate",0.135207607462966
+"deoxycholic acid",-0.129374787814368
+"ketodeoxycholate",0
+"alpha-muricholate",0
+"cholate",0.191952516663208
+"glycolithocholic acid",0
+"glycodeoxycholic acid",0
+"glycoursodeoxycholic acid",0.0344849426458038
+"oleanolic acid",-0.0271244068458523
+"maslinic acid",-0.0126073256110207
+"taurolithocholic acid",0
+"taurochenodesoxycholic acid",0.0663216818288625
+"taurodeoxycholic acid",0
+"taurohyodeoxycholate/ tauroursodeoxycholate",0.0907396926105348
+"urobilin",-0.25695757460931
+"7-hexadecenoic acid methyl ester",0
+"sphingosine",0.000766517127662159
+"piperine",0
+"linoleoyl ethanolamide",0.112681647864535
+"stearoyl ethanolamide",0
+"palmitoyl glycerol",0
+"C16:1 MAG*",0
+"C18:0e MAG",0.0910257453083105
+"N-oleoylethanolamine",0.0459116559453367
+"C16:1 MAG",0
+"cholesterol",0.00506192213355151
+"C18:0 MAG",0
+"cholestenone",-0.150148525009685
+"beta-sitosterol",0
+"C22:1 MAG",0
+"epoxysqualene",0
+"C24:0 TAG",0
+"C16:0 LPC",0.0967202234934689
+"C20:0 LPE",0
+"C18:3 LPC",0.0767919485443207
+"C18:2 LPC",0
+"C18:1 LPC",0
+"C18:0 LPC",0.0561376095491886
+"C16:0 ceramide (d18:1)",0.0893437186334859
+"C20:5 LPC",0
+"C30:0 DAG",0
+"C32:2 DAG*",0
+"C32:0 DAG",0
+"C34:3 DAG*",0
+"C34:2 DAG*",0
+"C34:1 DAG*",0
+"C34:3 DAG",0
+"C34:2 DAG",0
+"C34:0 DAG*",0
+"C14:0 CE",0
+"C36:4 DAG*",0
+"C36:3 DAG*",0
+"C36:2 DAG*",0
+"C36:4 DAG",0
+"C16:1 CE",0
+"C36:3 DAG",0
+"C16:0 CE",0
+"C36:2 DAG",0
+"C16:1 CE*",0
+"C36:0 DAG",0
+"C18:3 CE",0
+"C38:5 DAG*",0
+"C18:2 CE",0.00202393937561212
+"C18:1 CE",0.0620796705494049
+"C18:3 CE*",0
+"C18:0 CE",0
+"C18:2 CE*",0.0102166012711951
+"C14:0 SM",0
+"C20:4 CE",0
+"C20:3 CE",0
+"C20:5 CE",0
+"C20:3 CE*",0
+"C16:1 SM",0
+"C16:0 SM",0.0232744852054427
+"C22:5 CE",0
+"C22:4 CE",0.0152664529281608
+"C22:6 CE",0
+"C34:0 PE",0
+"C22:5 CE*",0
+"C22:4 CE*",0.0677606222137734
+"C18:0 SM",0.0197779371263633
+"C32:1 PC",0
+"C42:0 TAG",0
+"C34:1 PC plasmalogen-A",0
+"C34:2 PC",0
+"C34:1 PC",0
+"C36:5 PC plasmalogen-A",0.0503079378466594
+"C36:5 PC plasmalogen-B",0
+"C44:1 TAG",0
+"C44:0 TAG*",0
+"C36:2 PC plasmalogen",0
+"C44:0 TAG",0
+"C36:4 PC-A",0
+"C36:4 PC-B",0
+"C36:3 PC",0
+"C22:1 SM",0
+"C36:2 PC",0
+"C22:0 SM",0.0223586154005217
+"C36:1 PC",0
+"C46:2 TAG*",0
+"C46:1 TAG*",0
+"C46:0 TAG*",0
+"C46:2 TAG",0
+"C46:1 TAG",0
+"C46:0 TAG",0
+"C24:1 SM",0
+"C24:0 SM",0.0392253568571674
+"C48:2 TAG*",0
+"C48:4 TAG",0
+"C48:3 TAG",0
+"C48:0 TAG*",0
+"C48:2 TAG",0
+"C48:1 TAG",0
+"C48:0 TAG",0
+"C49:1 TAG",0
+"C50:4 TAG*",0
+"C50:3 TAG*",0
+"C50:5 TAG",0
+"C50:4 TAG",0
+"C50:1 TAG*",0
+"C50:3 TAG",0
+"C50:2 TAG",0
+"C50:1 TAG",0
+"C50:0 TAG",0
+"C51:3 TAG*",0
+"C51:2 TAG*",0
+"C52:6 TAG*",0
+"C52:5 TAG*",-0.0501036608614754
+"C52:7 TAG",0
+"C51:0 TAG*",0
+"C52:4 TAG*",-0.0379241631523464
+"C52:6 TAG",-0.0509596307923227
+"C52:3 TAG*",-0.0067948425815709
+"C52:5 TAG",-0.0190486799344671
+"C52:2 TAG*",0
+"C52:4 TAG",-0.00963046765640523
+"C52:1 TAG*",-0.0141429433341129
+"C52:3 TAG",0
+"C52:0 TAG*",0
+"C52:2 TAG",0
+"C52:1 TAG",0
+"C52:0 TAG",0
+"C53:3 TAG*",0
+"C54:9 TAG",0
+"C54:6 TAG*",-0.0472667949837753
+"C54:8 TAG",-0.000737841912584479
+"C54:5 TAG*",-0.0115195769160774
+"C54:7 TAG",-0.0428706966451006
+"C54:4 TAG*",-0.00387400243183349
+"C54:6 TAG",-0.0336111316849332
+"C54:3 TAG*",0
+"C54:5 TAG",-0.0108290908717846
+"C54:4 TAG",0
+"C54:3 TAG",0
+"C54:2 TAG",0
+"C54:1 TAG",0
+"C55:3 TAG*",0
+"C55:2 TAG*",0
+"C56:6 TAG*",0
+"C56:7 TAG",0
+"C56:4 TAG*",0
+"C56:6 TAG",0
+"C56:3 TAG*",0
+"C56:5 TAG",0
+"C56:2 TAG*",0
+"C56:4 TAG",0
+"C56:1 TAG*",0
+"C56:3 TAG",0
+"C56:2 TAG",-0.000773955815585953
+"C56:1 TAG",0
+"C58:7 TAG",0
+"C58:6 TAG",0
+"propionate",0
+"butyrate / isobutytare*",0
+"alanine",0
+"oxalate",0.0212460856270665
+"lactate",0.0760922546552037
+"methylbutyric aid / valeric / isovaleric*",-0.00967005896172517
+"2-aminobutyric acid",0
+"malonate",0
+"alpha-hydroxybutyrate",0.0443309188548572
+"serine",0
+"glycerate",0
+"pyrocatechol",0
+"uracil",0
+"proline",0
+"fumarate/maleate*",0
+"alpha-ketoisovalerate",0
+"caproic acid",-0.0650908265504722
+"valine",0
+"succite",0.0399163744886634
+"hydroxyisovaleric acid",0
+"threonine",0
+"4-hydroxybenzaldehyde",0
+"nicotinate",-0.0423411563880819
+"4-methylcatechol",0
+"taurine",0.0971686514777591
+"thymine",0
+"acetylalanine",0
+"leucine",0
+"asparagine",0
+"2-hydroxy-3-methylpentanoic acid /  leucinic acid",0.0611162116752195
+"aspartate",0
+"malate",0
+"adenine",0
+"erythronic acid",0.10921311351019
+"hypoxanthine",0
+"phenylacetate",0
+"salicylate",0
+"4-nitrophenol",0
+"caprylic acid",0
+"alpha-ketoglutarate",0
+"2-methylglutaric acid",-0.0913354618928266
+"glutamine",0
+"glutamate",0
+"2-hydroxyglutarate",0
+"methionine",0
+"tartarate",0
+"xylose",0
+"hydrocinnamic acid",-0.128355684071554
+"guanine",-0.0769882787627246
+"xanthine",0
+"ribitol",0
+"dihydroxybenzoic acid",0
+"histidine",0
+"orotate",0
+"imidazolelactate",0
+"3-methyladipate-pimelate",-0.178423101801367
+"levoglucosan",0
+"fucose",0
+"phenylalanine",0
+"L-phenyllactic acid",0
+"urate",0
+"shikimate",0
+"suberate",-0.0945109151619598
+"arginine",0
+"citrulline",0
+"ascorbate",0
+"fructose/glucose/galactose*",0
+"tyrosine",0
+"homovanillate",0
+"sorbitol",0
+"saccharin",0
+"4-pyridoxate",0
+"azelaic acid",-0.140427947271859
+"N-acetylglutamate",-0.0118164124005587
+"citrate",0
+"glucurote",0
+"tryptophan",0
+"1-3-7-trimethylurate",0
+"ethyl glucuronide",0
+"1,2,3,4-tetrahydro-1-methyl-beta-carboline-3-carboxylic acid",-0.0173556530326175
+"cystine",0.0953096048547508
+"pentadecanoate",-0.0684899844429342
+"uridine",0
+"pseudouridine",0
+"deoxyinosine",0
+"inosine",0
+"heptadecanoate",0
+"guanosine",0
+"docosapentaenoate",0.118104234264634
+"lactose",0
+"riboflavin",0
+"chenodeoxycholate/deoxycholate*",0
+"glycocholate",0.0935740206544263
+"taurodeoxycholate/taurochenodeoxycholate*",0
+"putrescine",0.0724410256909961
+"beta-alanine",0
+"choline",0
+"cytosine",0
+"histamine",0
+"creatinine",0.101184207055879
+"N-acetylputrescine",0.101394614220322
+"betaine",0
+"trimethylbenzene*",0
+"nicotinic acid",-0.0580687317444007
+"pyroglutamic acid",0
+"pipecolic acid",-0.0571811861451113
+"N-methylproline",0
+"hydroxyproline",0
+"creatine",0.136055962398356
+"isoleucine",0
+"ornithine",0
+"1-methylnicotinamide",0
+"trigonelline",0
+"2-hydroxyphenethylamine",0.0327884677819455
+"urocanic acid",0
+"imidazole propionate",0
+"proline betaine",0
+"4-guanidinobutanoic acid",0
+"butyrobetaine",0
+"acetylcholine",-0.0714508136847655
+"lysine",0
+"triethanolamine",0
+"4-hydroxy-3-methylacetophenone",-0.0975192151716076
+"pyridoxamine",-0.164010790571618
+"methylpyridonecarboxamide",0
+"carnitine",0.0110872156588784
+"methionine sulfoxide",0
+"1-methylguanine",0
+"7-methylguanine",0
+"3-methylxanthine",0
+"3-methylhistidine",0
+"dimethyllysine",0.0880487413516693
+"N-acetylspermidine",0
+"NMMA",0
+"trimethyllysine",0.0951522910242823
+"kynurenic acid",0
+"caffeine",0
+"N-acetylhistidine",0
+"5-acetylamino-6-amino-3-methyluracil",0
+"ADMA/SDMA*",0.118607735925761
+"ADMA",0.178480352865613
+"C2 carnitine",0.0630800921392984
+"L-1,2,3,4-tetrahydro-beta-carboline-3-carboxylic acid*",-0.0966073848190166
+"N-acetyl-L-arginine",0
+"pantothenate",0
+"carnosine",0
+"C4 carnitine",0.139181220692728
+"geranyl acetoacetate*",-0.00930373804105576
+"anserine",0
+"2-deoxyadenosine",0
+"C3-DC-CH3 carnitine",0.0750758513965301
+"thiamine",0
+"atenolol",0
+"threosphingosine",0
+"ethyl 9-hexadecenoate",0
+"8-hydroxy-deoxyguanosine",0
+"diacetylspermine",0.04364603949058
+"sphinganine",0
+"phytosphingosine",0.0346286987267098
+"5alpha-cholestanol",-0.148477822520357
+"C14 carnitine",0.184937091684542
+"C16 carnitine",0.190190219047308
+"C18:2 carnitine",0.168963457855868
+"C18:1 carnitine",0.139988855539027
+"C18 carnitine",0
+"C20:4 carnitine",-0.130897682753192
+"C16:0 LPE",0
+"C20 carnitine",0
+"C16:1 LPC plasmalogen*",0.0107917272754379
+"C18:1 LPC plasmalogen*",0.00765823089015918
+"C18:1 LPC*",0
+"bilirubin",0
+"urobilin*",-0.240771744176959
+"C36:2 PC*",0
